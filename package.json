@@ -1,0 +1,32 @@
+{
+  "name": "nick-method",
+  "version": "1.0.0",
+  "description": "Facilitate generating transactions with nick-method",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YamenMerhi/nick-method.git"
+  },
+  "keywords": [
+    "nick method",
+    "keyless execution",
+    "Ethereum transactions",
+    "multi chain deployment",
+    "raw transaction",
+    "pre-eip155 transaction",
+    "unprotected transactions"
+  ],
+  "author": "Yamen Merhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YamenMerhi/nick-method/issues"
+  },
+  "homepage": "https://github.com/YamenMerhi/nick-method#readme"
+}

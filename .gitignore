@@ -1,2 +1,5 @@
 # Node modules folder
 node_modules
+
+# Test locally until ..
+test

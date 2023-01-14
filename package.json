@@ -28,5 +28,13 @@
   "bugs": {
     "url": "https://github.com/YamenMerhi/nick-method/issues"
   },
-  "homepage": "https://github.com/YamenMerhi/nick-method#readme"
+  "homepage": "https://github.com/YamenMerhi/nick-method#readme",
+  "dependencies": {
+    "@ethereumjs/common": "^3.0.2",
+    "@ethereumjs/tx": "^4.0.2",
+    "@ethereumjs/util": "^8.0.3"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
 }

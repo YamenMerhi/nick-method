@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Facilitate generating transactions with nick-method",
   "main": "index.js",
+  "files": [
+    "src/*.js",
+    "!test/*.js"
+  ],
   "directories": {
     "doc": "docs",
     "test": "test"

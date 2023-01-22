@@ -6,6 +6,8 @@ To learn more about Nick's method, read this article: [Nick's method - Ether
 
 _Note: Currently, only legacy transactions (type 0) are supported. Type 1 and 2 will be added soon._
 
+_This package is in testing phase, please test on testnets before applying in production._
+
 ## Usage
 
 npm

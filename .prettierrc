@@ -3,9 +3,7 @@
     {
       "files": ["*.js"],
       "options": {
-        "tabWidth": 4,
-        "useTabs": true,
-        "trailingComma": "all",
+        "tabWidth": 2,
         "singleQuote": true
       }
     }

@@ -1,6 +1,9 @@
 const { utils } = require('ethereum-cryptography/secp256k1');
 const { Transaction } = require('@ethereumjs/tx');
-const { isValidChecksumAddress, toChecksumAddress } = require('@ethereumjs/util');
+const {
+  isValidChecksumAddress,
+  toChecksumAddress,
+} = require('@ethereumjs/util');
 
 function getTxType(txParams) {
   const tx = Transaction.fromTxData(txParams);

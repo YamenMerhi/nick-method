@@ -1,6 +1,6 @@
 {
   "name": "nick-method",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Facilitate generating transactions with nick-method",
   "main": "index.js",
   "files": [

@@ -39,6 +39,11 @@
     "@ethereumjs/util": "^8.0.3"
   },
   "devDependencies": {
+    "eslint": "^8.32.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-import": "^2.27.5",
+    "hardhat": "^2.12.6",
     "mocha": "^10.2.0"
   }
 }

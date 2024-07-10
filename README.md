@@ -1,3 +1,23 @@
+# ⚠️ ⚠️ Migrated ⚠️⚠️
+
+## This repo has been migrated to [@PatronumLabs/nick-method](https://github.com/Patronum-Labs/nick-method)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # nick-method
 
 A package that offers various options for creating transactions in accordance with the nick method, as well as utility functions for recovering transactions and sender addresses from raw transactions.
